@@ -1,0 +1,11 @@
+[
+  {
+     "icon" : "domainreg.svg",
+     "group_id" : "domains",
+     "order" : 3,
+     "name" : "Register Top-Level Domain",
+     "type" : "link",
+     "id" : "domainreg",
+     "uri" : "register/index.html"
+  }
+]
