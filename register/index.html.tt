@@ -11,7 +11,7 @@
 
 <div class="body-content">
     <p class="description" id="descDirPriv">
-    Top-level domain registrations are provided via our hosting partner, <a href="https://reclaimhosting.com">Reclaim Hosting</a> at a cost of <strong>$15</strong> annually. You can register any number of top-level domains and add them to your existing hosting account here. This page will walk you through the process.
+    Top-level domain registrations are provided via <a href="https://reclaimhosting.com">Reclaim Hosting</a> at a cost of <strong>$15</strong> annually. You can register any number of top-level domains and add them to your existing hosting account here. This page will walk you through the process.
     </p>
     <div class="alert alert-info" role="alert">
     <p>Note: You are not required to register domains with Reclaim Hosting. However domains registered elsewhere will require the additional step of pointing the nameservers for the domain to <strong>ns1.reclaimhosting.com</strong> and <strong>ns2.reclaimhosting.com</strong> in order to function with your account. Consult the documentation for the registrar that your domain is with if you are unsure how to accomplish this task.
@@ -21,7 +21,7 @@
     <a class="btn btn-primary" href="https://portal.reclaimhosting.com/cart.php?a=add&domain=register" role="button" target="_blank">Register Domain Now</a>
     
     <h2>Step 2: Add to cPanel</h2>
-    <p>Now that your domain is registered you can add it to cPanel. To do that <a href="../addon/index.html">click here</a> to access the <strong> Addon Domains</strong> section of cPanel. When adding the domain to your account cPanel will automatically create a folder for the domain where content can be added.</p>
+    <p>Now that your domain is registered you can add it to cPanel. To do that <a href="../domains/index.html">click here</a> to access the <strong>Domains</strong> section of cPanel. When adding the domain to your account cPanel will automatically create a folder for the domain where content can be added.</p>
     
     <h2>Step 3: Clone your Site (optional)</h2>
     <p>If you are just getting started once you have added your new domain to your hosting account you can get started building with it. However it's possible that you had already setup a site on another URL. If that's the case you can easily clone the site over to your new domain. Go to the <a href="../../../3rdparty/installatron/index.cgi#/installs">My Apps</a> tab in Installatron and click the clone icon</p>
