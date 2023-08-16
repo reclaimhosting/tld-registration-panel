@@ -17,7 +17,7 @@
     <p>Note: You are not required to register domains with Reclaim Hosting. However domains registered elsewhere will require the additional step of pointing the nameservers for the domain to <strong>ns1.reclaimhosting.com</strong> and <strong>ns2.reclaimhosting.com</strong> in order to function with your account. Consult the documentation for the registrar that your domain is with if you are unsure how to accomplish this task.
     </div>
     <h2>Step 1: Purchase Your Domain</h2>
-    <p>During the registration process you will select a unique top-level domain as well as the extension (.com, .net, .org) that you wish to register. As part of the checkout you will create a billing account with Reclaim Hosting for management of the domain registration externally from your account here. Once the domain is purchased come back here to move on to the next step.</p>
+    <p>During the registration process you will select a unique top-level domain as well as the extension (.com, .net, .org) that you wish to register. As part of the checkout you will create a billing account with Reclaim Hosting (if you do not already have one) for management of the domain registration externally from your account here. Once the domain is purchased come back here to move on to the next step.</p>
     <a class="btn btn-primary" href="https://portal.reclaimhosting.com/cart.php?a=add&domain=register" role="button" target="_blank">Register Domain Now</a>
     
     <h2>Step 2: Add to cPanel</h2>
