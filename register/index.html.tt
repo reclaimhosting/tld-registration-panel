@@ -18,7 +18,7 @@
     </div>
     <h2>Step 1: Purchase Your Domain</h2>
     <p>During the registration process you will select a unique top-level domain as well as the extension (.com, .net, .org) that you wish to register. As part of the checkout you will create a billing account with Reclaim Hosting (if you do not already have one) for management of the domain registration externally from your account here. Once the domain is purchased come back here to move on to the next step.</p>
-    <a class="btn btn-primary" href="https://portal.reclaimhosting.com/cart.php?a=add&domain=register" role="button" target="_blank">Register Domain Now</a>
+    <a class="btn btn-primary" href="https://billing.reclaimhosting.com/cart.php?a=add&domain=register" role="button" target="_blank">Register Domain Now</a>
     
     <h2>Step 2: Add to cPanel</h2>
     <p>Now that your domain is registered you can add it to cPanel. To do that <a href="../domains/index.html">click here</a> to access the <strong>Domains</strong> section of cPanel. When adding the domain to your account cPanel will automatically create a folder for the domain where content can be added.</p>
