@@ -11,13 +11,13 @@
 
 <div class="body-content">
     <p class="description" id="descDirPriv">
-    Top-level domain registrations are provided via <a href="https://reclaimhosting.com">Reclaim Hosting</a> at a cost of <strong>$15</strong> annually. You can register any number of top-level domains and add them to your existing hosting account here. This page will walk you through the process. More information can be found in our guide on <a href="https://support.reclaimhosting.com/hc/en-us/articles/4410479750807">Purchasing an Additional Domain</a>.
+    Apex domain registrations are provided via <a href="https://reclaimhosting.com">Reclaim Hosting</a> at a cost of <strong>$15</strong> annually. You can register any number of apex domains and add them to your existing hosting account here. This page will walk you through the process. More information can be found in our guide on <a href="https://support.reclaimhosting.com/hc/en-us/articles/4410479750807">Purchasing an Additional Domain</a>.
     </p>
     <div class="alert alert-info" role="alert">
     <p>Note: You are not required to register domains with Reclaim Hosting. However domains registered elsewhere will require the additional step of pointing the nameservers for the domain to <strong>ns1.reclaimhosting.com</strong> and <strong>ns2.reclaimhosting.com</strong> in order to function with your account. Consult the documentation for the registrar that your domain is with if you are unsure how to accomplish this task.
     </div>
     <h2>Step 1: Purchase Your Domain</h2>
-    <p>During the registration process you will select a unique top-level domain as well as the extension (.com, .net, .org) that you wish to register. As part of the checkout you will create a billing account with Reclaim Hosting (if you do not already have one) for management of the domain registration externally from your account here. Once the domain is purchased come back here to move on to the next step.</p>
+    <p>During the registration process you will select a unique apex domain as well as the extension (.com, .net, .org) that you wish to register. As part of the checkout you will create a billing account with Reclaim Hosting (if you do not already have one) for management of the domain registration externally from your account here. Once the domain is purchased come back here to move on to the next step.</p>
     <a class="btn btn-primary" href="https://billing.reclaimhosting.com/cart.php?a=add&domain=register" role="button" target="_blank">Register Domain Now</a>
     
     <h2>Step 2: Add to cPanel</h2>
